@@ -1,1 +1,1 @@
-virtual_labs
+# Virtual Labs for an educational web platform.
