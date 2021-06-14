@@ -10,7 +10,7 @@ It is possible that there are some errors when loading in some current environme
 
 ## Author Info
 
-- email: dejongh.cu@gmail.com
+- email: [dejongh.morell@gmail.com](mailto:dejongh.morell@gmail.com)
 
 - LinkedIn: [adejonghm](https://www.linkedin.com/in/adejonghm/)
 
